@@ -1,6 +1,9 @@
 html {
   font-size: 14px;
 }
+.search {
+  width: 90%;
+}
 
 @media (min-width: 768px) {
   html {
